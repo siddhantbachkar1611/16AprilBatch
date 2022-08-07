@@ -1,0 +1,311 @@
+2022-08-06 17:46:27,000  INFO [TestNG-test=Test-2] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:46:27,082  INFO [TestNG-test=Test-4] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:46:27,339  INFO [TestNG-test=Test-2] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:46:27,369  INFO [TestNG-test=Test-4] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:46:27,385  INFO [TestNG-test=Test-1] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:46:27,668  INFO [TestNG-test=Test-1] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:46:27,822  INFO [TestNG-test=Test-3] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:46:28,138  INFO [TestNG-test=Test-3] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:46:28,787  INFO [TestNG-test=Test-2] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:46:29,161  INFO [TestNG-test=Test-2] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:46:29,208  INFO [TestNG-test=Test-2] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:46:29,246  INFO [TestNG-test=Test-3] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:46:29,271  INFO [TestNG-test=Test-1] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:46:29,590  INFO [TestNG-test=Test-3] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:46:29,664  INFO [TestNG-test=Test-3] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:46:29,667  INFO [TestNG-test=Test-1] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:46:29,748  INFO [TestNG-test=Test-1] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:46:30,008  INFO [TestNG-test=Test-2] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:46:30,106  INFO [TestNG-test=Test-3] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:46:30,230  INFO [TestNG-test=Test-3] SauceDemoProject1:25 - Applying Assertion
+2022-08-06 17:46:30,501  INFO [TestNG-test=Test-1] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:46:31,717  INFO [TestNG-test=Test-3] SauceDemoProject1:78 - Browser is closed
+2022-08-06 17:46:33,549  INFO [TestNG-test=Test-4] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:46:33,699  INFO [TestNG-test=Test-4] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:46:33,737  INFO [TestNG-test=Test-4] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:46:34,031  INFO [TestNG-test=Test-4] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:46:34,031  INFO [TestNG-test=Test-2] SauceDemoProject1:23 - Clicked on Multiple product
+2022-08-06 17:46:34,165  INFO [TestNG-test=Test-2] SauceDemoProject1:33 - Applying Assertion
+2022-08-06 17:46:34,333  INFO [TestNG-test=Test-4] SauceDemoProject1:23 - Clicked on bag button
+2022-08-06 17:46:34,433  INFO [TestNG-test=Test-4] SauceDemoProject1:32 - Applying Assertion
+2022-08-06 17:46:35,426  INFO [TestNG-test=Test-4] SauceDemoProject1:78 - Browser is closed
+2022-08-06 17:46:35,531  INFO [TestNG-test=Test-2] SauceDemoProject1:78 - Browser is closed
+2022-08-06 17:52:27,324  INFO [TestNG-test=Test-2] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:52:27,642  INFO [TestNG-test=Test-2] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:52:28,556  INFO [TestNG-test=Test-4] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:52:28,856  INFO [TestNG-test=Test-4] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:52:29,903  INFO [TestNG-test=Test-3] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:52:30,178  INFO [TestNG-test=Test-3] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:52:30,647  INFO [TestNG-test=Test-1] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:52:30,941  INFO [TestNG-test=Test-1] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:52:32,235  INFO [TestNG-test=Test-4] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:52:32,511  INFO [TestNG-test=Test-4] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:52:32,570  INFO [TestNG-test=Test-4] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:52:32,881  INFO [TestNG-test=Test-2] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:52:32,995  INFO [TestNG-test=Test-3] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:52:33,271  INFO [TestNG-test=Test-3] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:52:33,324  INFO [TestNG-test=Test-4] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:52:33,362  INFO [TestNG-test=Test-3] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:52:33,648  INFO [TestNG-test=Test-2] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:52:33,683  INFO [TestNG-test=Test-2] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:52:33,703  INFO [TestNG-test=Test-3] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:52:33,789  INFO [TestNG-test=Test-3] SauceDemoProject1:25 - Applying Assertion
+2022-08-06 17:52:34,188  INFO [TestNG-test=Test-4] SauceDemoProject1:23 - Clicked on bag button
+2022-08-06 17:52:34,282  INFO [TestNG-test=Test-4] SauceDemoProject1:32 - Applying Assertion
+2022-08-06 17:52:34,379  INFO [TestNG-test=Test-2] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:52:35,008  INFO [TestNG-test=Test-3] SauceDemoProject1:78 - Browser is closed
+2022-08-06 17:52:35,240  INFO [TestNG-test=Test-4] SauceDemoProject1:78 - Browser is closed
+2022-08-06 17:52:38,582  INFO [TestNG-test=Test-2] SauceDemoProject1:23 - Clicked on Multiple product
+2022-08-06 17:52:38,775  INFO [TestNG-test=Test-2] SauceDemoProject1:33 - Applying Assertion
+2022-08-06 17:52:39,570  INFO [TestNG-test=Test-2] SauceDemoProject1:78 - Browser is closed
+2022-08-06 17:52:40,285  INFO [TestNG-test=Test-1] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:52:40,431  INFO [TestNG-test=Test-1] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:52:40,483  INFO [TestNG-test=Test-1] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:52:40,772  INFO [TestNG-test=Test-1] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:52:41,026  INFO [TestNG-test=Test-1] SauceDemoProject1:21 - Click on Setting Button
+2022-08-06 17:52:41,258  INFO [TestNG-test=Test-1] SauceDemoProject1:23 - Click on LogOut Button
+2022-08-06 17:52:41,258  INFO [TestNG-test=Test-1] SauceDemoProject1:30 - Applying Assertion
+2022-08-06 17:52:42,031  INFO [TestNG-test=Test-1] SauceDemoProject1:78 - Browser is closed
+2022-08-06 17:53:49,310  INFO [main] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:53:49,590  INFO [main] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:53:50,571  INFO [main] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:53:50,976  INFO [main] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:53:51,020  INFO [main] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:53:51,315  INFO [main] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:53:51,618  INFO [main] SauceDemoProject1:21 - Click on Setting Button
+2022-08-06 17:53:51,851  INFO [main] SauceDemoProject1:23 - Click on LogOut Button
+2022-08-06 17:53:51,856  INFO [main] SauceDemoProject1:30 - Applying Assertion
+2022-08-06 17:53:52,571  INFO [main] SauceDemoProject1:78 - Browser is closed
+2022-08-06 17:53:55,512  INFO [main] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:53:55,779  INFO [main] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:54:04,248  INFO [main] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:54:04,391  INFO [main] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:54:04,422  INFO [main] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:54:04,737  INFO [main] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:54:04,811  INFO [main] SauceDemoProject1:25 - Applying Assertion
+2022-08-06 17:54:05,509  INFO [main] SauceDemoProject1:78 - Browser is closed
+2022-08-06 17:54:08,435  INFO [main] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:54:08,707  INFO [main] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:54:09,644  INFO [main] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:54:09,778  INFO [main] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:54:09,842  INFO [main] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:54:10,145  INFO [main] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:54:11,514  INFO [main] SauceDemoProject1:23 - Clicked on Multiple product
+2022-08-06 17:54:11,661  INFO [main] SauceDemoProject1:33 - Applying Assertion
+2022-08-06 17:54:12,311  INFO [main] SauceDemoProject1:78 - Browser is closed
+2022-08-06 17:54:15,312  INFO [main] SauceDemoProject1:50 - Browser Opened
+2022-08-06 17:54:15,583  INFO [main] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 17:54:16,610  INFO [main] SauceDemoProject1:57 - URL is Opened
+2022-08-06 17:54:16,754  INFO [main] SauceDemoProject1:67 - Username Entered
+2022-08-06 17:54:16,857  INFO [main] SauceDemoProject1:69 - Password Entered
+2022-08-06 17:54:17,150  INFO [main] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 17:54:17,413  INFO [main] SauceDemoProject1:23 - Clicked on bag button
+2022-08-06 17:54:17,521  INFO [main] SauceDemoProject1:32 - Applying Assertion
+2022-08-06 17:54:18,191  INFO [main] SauceDemoProject1:78 - Browser is closed
+2022-08-06 18:10:23,372  INFO [TestNG-test=Test-4] SauceDemoProject1:50 - Browser Opened
+2022-08-06 18:10:23,453  INFO [TestNG-test=Test-2] SauceDemoProject1:50 - Browser Opened
+2022-08-06 18:10:23,531  INFO [TestNG-test=Test-1] SauceDemoProject1:50 - Browser Opened
+2022-08-06 18:10:23,727  INFO [TestNG-test=Test-2] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 18:10:23,739  INFO [TestNG-test=Test-4] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 18:10:23,776  INFO [TestNG-test=Test-3] SauceDemoProject1:50 - Browser Opened
+2022-08-06 18:10:23,853  INFO [TestNG-test=Test-1] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 18:10:24,055  INFO [TestNG-test=Test-3] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 18:10:25,255  INFO [TestNG-test=Test-1] SauceDemoProject1:57 - URL is Opened
+2022-08-06 18:10:25,321  INFO [TestNG-test=Test-2] SauceDemoProject1:57 - URL is Opened
+2022-08-06 18:10:25,357  INFO [TestNG-test=Test-3] SauceDemoProject1:57 - URL is Opened
+2022-08-06 18:10:25,398  INFO [TestNG-test=Test-4] SauceDemoProject1:57 - URL is Opened
+2022-08-06 18:10:26,011  INFO [TestNG-test=Test-3] SauceDemoProject1:67 - Username Entered
+2022-08-06 18:10:26,015  INFO [TestNG-test=Test-1] SauceDemoProject1:67 - Username Entered
+2022-08-06 18:10:26,115  INFO [TestNG-test=Test-4] SauceDemoProject1:67 - Username Entered
+2022-08-06 18:10:26,148  INFO [TestNG-test=Test-3] SauceDemoProject1:69 - Password Entered
+2022-08-06 18:10:26,271  INFO [TestNG-test=Test-4] SauceDemoProject1:69 - Password Entered
+2022-08-06 18:10:26,371  INFO [TestNG-test=Test-1] SauceDemoProject1:69 - Password Entered
+2022-08-06 18:10:26,402  INFO [TestNG-test=Test-2] SauceDemoProject1:67 - Username Entered
+2022-08-06 18:10:26,496  INFO [TestNG-test=Test-2] SauceDemoProject1:69 - Password Entered
+2022-08-06 18:10:27,099  INFO [TestNG-test=Test-3] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 18:10:27,133  INFO [TestNG-test=Test-4] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 18:10:27,238  INFO [TestNG-test=Test-4] SauceDemoProject1:25 - Applying Assertion
+2022-08-06 18:10:27,257  INFO [TestNG-test=Test-1] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 18:10:27,411  INFO [TestNG-test=Test-2] SauceDemoProject1:71 - Loginbutton clicked
+2022-08-06 18:10:27,886  INFO [TestNG-test=Test-2] SauceDemoProject1:23 - Clicked on bag button
+2022-08-06 18:10:28,012  INFO [TestNG-test=Test-2] SauceDemoProject1:32 - Applying Assertion
+2022-08-06 18:10:28,029  INFO [TestNG-test=Test-3] SauceDemoProject1:21 - Click on Setting Button
+2022-08-06 18:10:29,238  INFO [TestNG-test=Test-1] SauceDemoProject1:23 - Clicked on Multiple product
+2022-08-06 18:10:29,545  INFO [TestNG-test=Test-1] SauceDemoProject1:33 - Applying Assertion
+2022-08-06 18:10:31,053  INFO [TestNG-test=Test-3] SauceDemoProject1:78 - Browser is closed
+2022-08-06 18:10:31,068  INFO [TestNG-test=Test-2] SauceDemoProject1:78 - Browser is closed
+2022-08-06 18:10:31,134  INFO [TestNG-test=Test-1] SauceDemoProject1:78 - Browser is closed
+2022-08-06 18:10:31,196  INFO [TestNG-test=Test-4] SauceDemoProject1:78 - Browser is closed
+2022-08-06 18:36:17,153  INFO [main] SauceDemoProject1:50 - Browser Opened
+2022-08-06 18:36:17,433  INFO [main] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 18:36:18,401  INFO [main] SauceDemoProject1:57 - URL is Opened
+2022-08-06 18:36:18,790  INFO [main] SauceDemoProject1:66 - Username Entered
+2022-08-06 18:36:18,841  INFO [main] SauceDemoProject1:68 - Password Entered
+2022-08-06 18:36:19,189  INFO [main] SauceDemoProject1:70 - Loginbutton clicked
+2022-08-06 18:36:19,490  INFO [main] SauceDemoProject1:21 - Click on Setting Button
+2022-08-06 18:36:19,748  INFO [main] SauceDemoProject1:23 - Click on LogOut Button
+2022-08-06 18:36:19,756  INFO [main] SauceDemoProject1:30 - Applying Assertion
+2022-08-06 18:36:20,827  INFO [main] SauceDemoProject1:77 - Browser is closed
+2022-08-06 18:36:23,571  INFO [main] SauceDemoProject1:50 - Browser Opened
+2022-08-06 18:36:23,840  INFO [main] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 18:36:24,719  INFO [main] SauceDemoProject1:57 - URL is Opened
+2022-08-06 18:36:24,981  INFO [main] SauceDemoProject1:66 - Username Entered
+2022-08-06 18:36:25,074  INFO [main] SauceDemoProject1:68 - Password Entered
+2022-08-06 18:36:25,384  INFO [main] SauceDemoProject1:70 - Loginbutton clicked
+2022-08-06 18:36:25,516  INFO [main] SauceDemoProject1:25 - Applying Assertion
+2022-08-06 18:36:26,592  INFO [main] SauceDemoProject1:77 - Browser is closed
+2022-08-06 18:36:29,380  INFO [main] SauceDemoProject1:50 - Browser Opened
+2022-08-06 18:36:29,651  INFO [main] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 18:36:31,344  INFO [main] SauceDemoProject1:57 - URL is Opened
+2022-08-06 18:36:31,581  INFO [main] SauceDemoProject1:66 - Username Entered
+2022-08-06 18:36:31,640  INFO [main] SauceDemoProject1:68 - Password Entered
+2022-08-06 18:36:31,950  INFO [main] SauceDemoProject1:70 - Loginbutton clicked
+2022-08-06 18:36:33,410  INFO [main] SauceDemoProject1:23 - Clicked on Multiple product
+2022-08-06 18:36:33,649  INFO [main] SauceDemoProject1:33 - Applying Assertion
+2022-08-06 18:36:34,380  INFO [main] SauceDemoProject1:77 - Browser is closed
+2022-08-06 18:36:37,140  INFO [main] SauceDemoProject1:50 - Browser Opened
+2022-08-06 18:36:37,416  INFO [main] SauceDemoProject1:53 - Browser is maximised
+2022-08-06 18:36:38,546  INFO [main] SauceDemoProject1:57 - URL is Opened
+2022-08-06 18:36:38,786  INFO [main] SauceDemoProject1:66 - Username Entered
+2022-08-06 18:36:38,871  INFO [main] SauceDemoProject1:68 - Password Entered
+2022-08-06 18:36:39,186  INFO [main] SauceDemoProject1:70 - Loginbutton clicked
+2022-08-06 18:36:39,478  INFO [main] SauceDemoProject1:23 - Clicked on bag button
+2022-08-06 18:36:39,635  INFO [main] SauceDemoProject1:32 - Applying Assertion
+2022-08-06 18:36:40,551  INFO [main] SauceDemoProject1:77 - Browser is closed
+2022-08-06 19:17:05,802  INFO [TestNG-test=Test-1] SauceDemo1:50 - Browser Opened
+2022-08-06 19:17:06,076  INFO [TestNG-test=Test-1] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:17:06,613  INFO [TestNG-test=Test-3] SauceDemo1:50 - Browser Opened
+2022-08-06 19:17:06,914  INFO [TestNG-test=Test-3] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:17:07,352  INFO [TestNG-test=Test-1] SauceDemo1:57 - URL is Opened
+2022-08-06 19:17:08,158  INFO [TestNG-test=Test-1] SauceDemo1:66 - Username Entered
+2022-08-06 19:17:08,253  INFO [TestNG-test=Test-1] SauceDemo1:68 - Password Entered
+2022-08-06 19:17:08,692  INFO [TestNG-test=Test-3] SauceDemo1:57 - URL is Opened
+2022-08-06 19:17:08,759  INFO [TestNG-test=Test-1] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:17:09,055  INFO [TestNG-test=Test-3] SauceDemo1:66 - Username Entered
+2022-08-06 19:17:09,132  INFO [TestNG-test=Test-3] SauceDemo1:68 - Password Entered
+2022-08-06 19:17:09,954  INFO [TestNG-test=Test-3] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:17:10,879  INFO [TestNG-test=Test-1] SauceDemo1:23 - Clicked on Multiple product
+2022-08-06 19:17:10,879  INFO [TestNG-test=Test-3] SauceDemo1:21 - Click on Setting Button
+2022-08-06 19:17:11,464  INFO [TestNG-test=Test-4] SauceDemo1:50 - Browser Opened
+2022-08-06 19:17:11,928  INFO [TestNG-test=Test-1] SauceDemo1:33 - Applying Assertion
+2022-08-06 19:17:12,116  INFO [TestNG-test=Test-2] SauceDemo1:50 - Browser Opened
+2022-08-06 19:17:12,138  INFO [TestNG-test=Test-4] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:17:12,475  INFO [TestNG-test=Test-2] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:17:13,767  INFO [TestNG-test=Test-2] SauceDemo1:57 - URL is Opened
+2022-08-06 19:17:14,022  INFO [TestNG-test=Test-4] SauceDemo1:57 - URL is Opened
+2022-08-06 19:17:14,114  INFO [TestNG-test=Test-2] SauceDemo1:66 - Username Entered
+2022-08-06 19:17:14,194  INFO [TestNG-test=Test-2] SauceDemo1:68 - Password Entered
+2022-08-06 19:17:14,278  INFO [TestNG-test=Test-4] SauceDemo1:66 - Username Entered
+2022-08-06 19:17:14,383  INFO [TestNG-test=Test-4] SauceDemo1:68 - Password Entered
+2022-08-06 19:17:14,587  INFO [TestNG-test=Test-2] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:17:14,881  INFO [TestNG-test=Test-2] SauceDemo1:23 - Clicked on bag button
+2022-08-06 19:17:15,066  INFO [TestNG-test=Test-2] SauceDemo1:32 - Applying Assertion
+2022-08-06 19:17:17,484  INFO [TestNG-test=Test-3] SauceDemo1:77 - Browser is closed
+2022-08-06 19:17:17,509  INFO [TestNG-test=Test-2] SauceDemo1:77 - Browser is closed
+2022-08-06 19:17:17,509  INFO [TestNG-test=Test-1] SauceDemo1:77 - Browser is closed
+2022-08-06 19:20:38,472  INFO [main] SauceDemo1:50 - Browser Opened
+2022-08-06 19:20:38,744  INFO [main] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:20:40,579  INFO [main] SauceDemo1:57 - URL is Opened
+2022-08-06 19:20:40,945  INFO [main] SauceDemo1:66 - Username Entered
+2022-08-06 19:20:41,001  INFO [main] SauceDemo1:68 - Password Entered
+2022-08-06 19:20:41,319  INFO [main] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:20:41,625  INFO [main] SauceDemo1:21 - Click on Setting Button
+2022-08-06 19:20:41,868  INFO [main] SauceDemo1:23 - Click on LogOut Button
+2022-08-06 19:20:41,875  INFO [main] SauceDemo1:30 - Applying Assertion
+2022-08-06 19:20:42,713  INFO [main] SauceDemo1:77 - Browser is closed
+2022-08-06 19:20:45,584  INFO [main] SauceDemo1:50 - Browser Opened
+2022-08-06 19:20:45,854  INFO [main] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:20:47,288  INFO [main] SauceDemo1:57 - URL is Opened
+2022-08-06 19:20:47,534  INFO [main] SauceDemo1:66 - Username Entered
+2022-08-06 19:20:47,603  INFO [main] SauceDemo1:68 - Password Entered
+2022-08-06 19:20:47,998  INFO [main] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:20:48,133  INFO [main] SauceDemo1:25 - Applying Assertion
+2022-08-06 19:20:49,026  INFO [main] SauceDemo1:77 - Browser is closed
+2022-08-06 19:20:51,868  INFO [main] SauceDemo1:50 - Browser Opened
+2022-08-06 19:20:52,141  INFO [main] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:20:53,010  INFO [main] SauceDemo1:57 - URL is Opened
+2022-08-06 19:20:53,251  INFO [main] SauceDemo1:66 - Username Entered
+2022-08-06 19:20:53,340  INFO [main] SauceDemo1:68 - Password Entered
+2022-08-06 19:20:53,670  INFO [main] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:20:55,094  INFO [main] SauceDemo1:23 - Clicked on Multiple product
+2022-08-06 19:20:55,310  INFO [main] SauceDemo1:33 - Applying Assertion
+2022-08-06 19:20:56,199  INFO [main] SauceDemo1:77 - Browser is closed
+2022-08-06 19:20:58,993  INFO [main] SauceDemo1:50 - Browser Opened
+2022-08-06 19:20:59,262  INFO [main] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:21:00,189  INFO [main] SauceDemo1:57 - URL is Opened
+2022-08-06 19:21:00,433  INFO [main] SauceDemo1:66 - Username Entered
+2022-08-06 19:21:00,508  INFO [main] SauceDemo1:68 - Password Entered
+2022-08-06 19:21:00,832  INFO [main] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:21:01,115  INFO [main] SauceDemo1:23 - Clicked on bag button
+2022-08-06 19:21:01,265  INFO [main] SauceDemo1:32 - Applying Assertion
+2022-08-06 19:21:02,370  INFO [main] SauceDemo1:77 - Browser is closed
+2022-08-06 19:23:33,969  INFO [TestNG-test=Test-3] SauceDemo1:50 - Browser Opened
+2022-08-06 19:23:34,263  INFO [TestNG-test=Test-1] SauceDemo1:50 - Browser Opened
+2022-08-06 19:23:34,326  INFO [TestNG-test=Test-3] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:23:34,624  INFO [TestNG-test=Test-1] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:23:35,607  INFO [TestNG-test=Test-3] SauceDemo1:57 - URL is Opened
+2022-08-06 19:23:36,133  INFO [TestNG-test=Test-3] SauceDemo1:66 - Username Entered
+2022-08-06 19:23:36,316  INFO [TestNG-test=Test-3] SauceDemo1:68 - Password Entered
+2022-08-06 19:23:36,684  INFO [TestNG-test=Test-1] SauceDemo1:57 - URL is Opened
+2022-08-06 19:23:37,031  INFO [TestNG-test=Test-1] SauceDemo1:66 - Username Entered
+2022-08-06 19:23:37,127  INFO [TestNG-test=Test-3] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:23:37,257  INFO [TestNG-test=Test-1] SauceDemo1:68 - Password Entered
+2022-08-06 19:23:37,555  INFO [TestNG-test=Test-3] SauceDemo1:21 - Click on Setting Button
+2022-08-06 19:23:37,949  INFO [TestNG-test=Test-1] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:23:39,520  INFO [TestNG-test=Test-2] SauceDemo1:50 - Browser Opened
+2022-08-06 19:23:39,794  INFO [TestNG-test=Test-2] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:23:40,139  INFO [TestNG-test=Test-4] SauceDemo1:50 - Browser Opened
+2022-08-06 19:23:40,427  INFO [TestNG-test=Test-4] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:23:40,750  INFO [TestNG-test=Test-2] SauceDemo1:57 - URL is Opened
+2022-08-06 19:23:41,117  INFO [TestNG-test=Test-2] SauceDemo1:66 - Username Entered
+2022-08-06 19:23:41,172  INFO [TestNG-test=Test-2] SauceDemo1:68 - Password Entered
+2022-08-06 19:23:41,498  INFO [TestNG-test=Test-2] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:23:41,780  INFO [TestNG-test=Test-2] SauceDemo1:23 - Clicked on bag button
+2022-08-06 19:23:42,015  INFO [TestNG-test=Test-2] SauceDemo1:32 - Applying Assertion
+2022-08-06 19:23:42,146  INFO [TestNG-test=Test-1] SauceDemo1:23 - Clicked on Multiple product
+2022-08-06 19:23:42,680  INFO [TestNG-test=Test-1] SauceDemo1:33 - Applying Assertion
+2022-08-06 19:23:42,826  INFO [TestNG-test=Test-3] SauceDemo1:77 - Browser is closed
+2022-08-06 19:23:43,768  INFO [TestNG-test=Test-4] SauceDemo1:57 - URL is Opened
+2022-08-06 19:23:43,784  INFO [TestNG-test=Test-2] SauceDemo1:77 - Browser is closed
+2022-08-06 19:23:43,998  INFO [TestNG-test=Test-4] SauceDemo1:66 - Username Entered
+2022-08-06 19:23:44,071  INFO [TestNG-test=Test-4] SauceDemo1:68 - Password Entered
+2022-08-06 19:23:44,169  INFO [TestNG-test=Test-1] SauceDemo1:77 - Browser is closed
+2022-08-06 19:23:44,409  INFO [TestNG-test=Test-4] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:23:44,516  INFO [TestNG-test=Test-4] SauceDemo1:25 - Applying Assertion
+2022-08-06 19:23:45,771  INFO [TestNG-test=Test-4] SauceDemo1:77 - Browser is closed
+2022-08-06 19:24:56,533  INFO [main] SauceDemo1:50 - Browser Opened
+2022-08-06 19:24:56,806  INFO [main] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:24:58,147  INFO [main] SauceDemo1:57 - URL is Opened
+2022-08-06 19:24:58,526  INFO [main] SauceDemo1:66 - Username Entered
+2022-08-06 19:24:58,589  INFO [main] SauceDemo1:68 - Password Entered
+2022-08-06 19:24:58,889  INFO [main] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:24:59,224  INFO [main] SauceDemo1:21 - Click on Setting Button
+2022-08-06 19:24:59,499  INFO [main] SauceDemo1:23 - Click on LogOut Button
+2022-08-06 19:24:59,507  INFO [main] SauceDemo1:30 - Applying Assertion
+2022-08-06 19:25:00,662  INFO [main] SauceDemo1:77 - Browser is closed
+2022-08-06 19:25:03,465  INFO [main] SauceDemo1:50 - Browser Opened
+2022-08-06 19:25:03,725  INFO [main] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:25:04,759  INFO [main] SauceDemo1:57 - URL is Opened
+2022-08-06 19:25:04,999  INFO [main] SauceDemo1:66 - Username Entered
+2022-08-06 19:25:05,087  INFO [main] SauceDemo1:68 - Password Entered
+2022-08-06 19:25:05,410  INFO [main] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:25:05,558  INFO [main] SauceDemo1:25 - Applying Assertion
+2022-08-06 19:25:06,613  INFO [main] SauceDemo1:77 - Browser is closed
+2022-08-06 19:25:09,570  INFO [main] SauceDemo1:50 - Browser Opened
+2022-08-06 19:25:09,829  INFO [main] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:25:10,767  INFO [main] SauceDemo1:57 - URL is Opened
+2022-08-06 19:25:10,999  INFO [main] SauceDemo1:66 - Username Entered
+2022-08-06 19:25:11,098  INFO [main] SauceDemo1:68 - Password Entered
+2022-08-06 19:25:11,424  INFO [main] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:25:12,846  INFO [main] SauceDemo1:23 - Clicked on Multiple product
+2022-08-06 19:25:13,156  INFO [main] SauceDemo1:33 - Applying Assertion
+2022-08-06 19:25:14,099  INFO [main] SauceDemo1:77 - Browser is closed
+2022-08-06 19:25:16,900  INFO [main] SauceDemo1:50 - Browser Opened
+2022-08-06 19:25:17,163  INFO [main] SauceDemo1:53 - Browser is maximised
+2022-08-06 19:25:17,989  INFO [main] SauceDemo1:57 - URL is Opened
+2022-08-06 19:25:18,226  INFO [main] SauceDemo1:66 - Username Entered
+2022-08-06 19:25:18,293  INFO [main] SauceDemo1:68 - Password Entered
+2022-08-06 19:25:18,619  INFO [main] SauceDemo1:70 - Loginbutton clicked
+2022-08-06 19:25:18,905  INFO [main] SauceDemo1:23 - Clicked on bag button
+2022-08-06 19:25:19,104  INFO [main] SauceDemo1:32 - Applying Assertion
+2022-08-06 19:25:20,159  INFO [main] SauceDemo1:77 - Browser is closed
